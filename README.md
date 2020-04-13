@@ -1,6 +1,6 @@
 # Middle East Night Left-to-Right (Typora Theme)
 
-This reposatory builds on an existing 'RPL' Typora Middle East Night Theme (https://github.com/jakemkc/middle-east) but making it usable for those that write Left to Right
+This reposatory builds on an ![existing 'RPL' Typora Middle East Night Theme (https://github.com/jakemkc/middle-east) but making it usable for those that write Left to Right](https://github.com/jakemkc/middle-east)
 
 ![demo](./media/demo.png)
 
